@@ -1,0 +1,4 @@
+include: package:flutter_lints/flutter.yaml
+
+# Add project-specific overrides here if needed.
+# flutter_lints already enables prefer_const_constructors, etc.
